@@ -1,0 +1,9 @@
+Flask
+matplotlib
+colorama
+textblob
+pandas
+numpy
+nltk
+sklearn
+pymysql
